@@ -1,0 +1,61 @@
+ __  __          _ _       ____  _              ___        _   _           _              
+|  \/  | ___  __| (_) __ _/ ___|| |_ ___  _ __ / _ \ _ __ | |_(_)_ __ ___ (_)_______ _ __ 
+| |\/| |/ _ \/ _` | |/ _` \___ \| __/ _ \| '__| | | | '_ \| __| | '_ ` _ \| |_  / _ \ '__|
+| |  | |  __/ (_| | | (_| |___) | || (_) | |  | |_| | |_) | |_| | | | | | | |/ /  __/ |   
+|_|  |_|\___|\__,_|_|\__,_|____/ \__\___/|_|   \___/| .__/ \__|_|_| |_| |_|_/___\___|_|   
+                                                    |_|                                   
+
+Successfully Imported All Libraries
+Reading Files in  C:\Users\Peranvan\Desktop\DataOptimizer
+Collecting all images in current directory
+
+man.jpeg
+poop.jpeg
+sss.jpeg
+asdasdqqqqqqq.jpg
+asdasdqw.jpg
+Outdoors-man-portrait_(cropped).jpg
+skims lede 2.jpg
+Enter the threshold for Image Similarity: 
+Comparing 2 images
+man.jpeg
+----------------
+(poop.jpeg) Similarity (SSIM): 1.0
+(sss.jpeg) Similarity (SSIM): 0.312772920933318
+(asdasdqqqqqqq.jpg) Similarity (SSIM): 0.2956244953380932
+(asdasdqw.jpg) Similarity (SSIM): 0.22718330414994423
+(Outdoors-man-portrait_(cropped).jpg) Similarity (SSIM): 0.24924553552615594
+(skims lede 2.jpg) Similarity (SSIM): 0.36936379885102266
+
+poop.jpeg
+----------------
+(sss.jpeg) Similarity (SSIM): 0.312772920933318
+(asdasdqqqqqqq.jpg) Similarity (SSIM): 0.2956244953380932
+(asdasdqw.jpg) Similarity (SSIM): 0.22718330414994423
+(Outdoors-man-portrait_(cropped).jpg) Similarity (SSIM): 0.24924553552615594
+(skims lede 2.jpg) Similarity (SSIM): 0.36936379885102266
+
+sss.jpeg
+----------------
+(asdasdqqqqqqq.jpg) Similarity (SSIM): 0.29821758454314923
+(asdasdqw.jpg) Similarity (SSIM): 0.21663560222766257
+(Outdoors-man-portrait_(cropped).jpg) Similarity (SSIM): 0.24250654090768073
+(skims lede 2.jpg) Similarity (SSIM): 0.3695751157765711
+
+asdasdqqqqqqq.jpg
+----------------
+(asdasdqw.jpg) Similarity (SSIM): 0.826715794731709
+(Outdoors-man-portrait_(cropped).jpg) Similarity (SSIM): 0.8471724440927696
+(skims lede 2.jpg) Similarity (SSIM): 0.388530616555989
+
+asdasdqw.jpg
+----------------
+(Outdoors-man-portrait_(cropped).jpg) Similarity (SSIM): 0.9639342992176103
+(skims lede 2.jpg) Similarity (SSIM): 0.3156794657865467
+
+Outdoors-man-portrait_(cropped).jpg
+----------------
+(skims lede 2.jpg) Similarity (SSIM): 0.3425885098461746
+
+Enter Folder nameSuccessfully Moved the Files
+Enter Folder name
